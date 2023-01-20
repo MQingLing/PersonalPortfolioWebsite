@@ -89,6 +89,7 @@ let swiper = new Swiper('.portfolio_container', {
     },
     mousewheel: true,
     keyboard: true,
+    
 });
 
 /*==================== SCROLL REVEAL ANIMATION ====================*/
@@ -104,7 +105,7 @@ sr.reveal('.home_title',{})
 sr.reveal('.home_title-color',{delay: 500})
 sr.reveal('.home_subtitle',{delay: 900})
 sr.reveal('.home_description',{delay: 1000})
-sr.reveal('.button',{delay: 1200})
+sr.reveal('.button',{delay: 1000})
 sr.reveal('.home_social',{interval: 200})
 sr.reveal('.home_img',{interval: 200})
 
