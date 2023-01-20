@@ -1,5 +1,8 @@
 # Personal_Portfolio_Website
 
+## Website Release
+Click here to view: https://mqingling.github.io/PersonalPortfolioWebsite/
+
 ## Overview
 The project that I am doing is a portfolio allowing students to insert their past personal achievements and awards. It allows them to be able to look back on what they achieved previously and it also allows them to be scouted easily as it is online and they can be found.
 
